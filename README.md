@@ -12,6 +12,8 @@ Here, it consults a database to verify the login credentials entered by the airp
 #### Flight managment
 <img width="340" alt="image" src="https://github.com/icobeen/Java_flight_management/assets/153369256/c3ae78e8-6757-4f3f-b310-ed68a439768a">
 
+#### Passenger management 
+<img width="480" alt="image" src="https://github.com/icobeen/Java_flight_management/assets/153369256/423331b9-10d8-4e77-9b21-e40d9dee02b5">
 
 
 
