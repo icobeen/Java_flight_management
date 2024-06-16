@@ -9,8 +9,8 @@ Here, it consults a database to verify the login credentials entered by the airp
 ### Dashboard 
 <img width="560" alt="image" src="https://github.com/icobeen/Java_flight_management/assets/153369256/7efd9bf2-aff9-464d-913f-4db1c3d593e4">
 #### Flight_management
-<img width="340" alt="image" src="https://github.com/icobeen/Java_flight_management/assets/153369256/cf033c88-0fd2-496e-bb5a-5770df42f835">
-#### Passenger_management
+<img width="340" alt="image" src="https://github.com/icobeen/Java_flight_management/assets/153369256/c3ae78e8-6757-4f3f-b310-ed68a439768a">
+
 
 
 
